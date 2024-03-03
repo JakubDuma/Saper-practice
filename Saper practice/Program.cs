@@ -10,7 +10,7 @@ class Program
 
     {
 
-        int width = 10;a
+        int width = 10;
 
         int height = 10;
 
@@ -70,7 +70,7 @@ class Program
 
 
 
-                        if (count /*??*/ 0)
+                        if (count == 0)
 
                         {
 
